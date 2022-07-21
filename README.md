@@ -1,4 +1,4 @@
-<h2>私のプロフィールへようこそ</h2>
+<p>私のプロフィールへようこそ</p>
 <p style="font-size: 20px; margin-top: -20px;">Welcome to my Profile</p>
 <div align="left">
     <p style="width: 60%;">welcome to my profile, my name is <span style="font-weight: bold;">Miko Meysa Bima</span>, I'm a junior web development, here I share my project, so don't forget to start haha</p>
