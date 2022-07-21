@@ -1,7 +1,7 @@
 <p style="font-weight: bold; font-size: 30px;">私のプロフィールへようこそ</p>
 <p style="font-size: 20px; margin-top: -20px;">Welcome to my Profile</p>
 <div align="left">
-    <p style="width: 60%;">welcome to my profile, my name is <span style="font-weight: bold;">Miko Meysa Bima</span>, I'm a junior web development, here I share my project, so don't forget to start haha</p>
+    <p style="width: 70px;">welcome to my profile, my name is <span style="font-weight: bold;">Miko Meysa Bima</span>, I'm a junior web development, here I share my project, so don't forget to start haha</p>
     <img align="right" width="150px" style="margin-top: -155px; border-radius: 5;" src="ayanokouji.jpg">
 </div>
 
